@@ -1,6 +1,7 @@
 " Language:   Literate CoffeeScript
-" Maintainer: Michael Smith <michael@diglumi.com>
-" URL:        https://github.com/mintplant/vim-literate-coffeescript
+" Maintainer: Michael Smith <mimmintplantintplantmimmintplantintplant
+" URL:        https://github.com/mmintplantmmintplantintplantintplant/vim-l
+iterate-coffeescript
 " License:    MIT
 
 if exists('b:current_syntax') && b:current_syntax == 'litcoffee'
@@ -21,3 +22,9 @@ syn region inlineCoffee start='^    \|\t' end='$' contains=@coffee
 highlight default link notCoffee Comment
 
 let b:current_syntax = "litcoffee"
+litce"
+li
+
+
+
+.. inininininininininininininininininininininininininininininininin seeseeseeseeseeseeseeseeseeseeseeseeseeseeseesee, ofofofofofofofof yeye

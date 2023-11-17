@@ -1,6 +1,6 @@
 " Language:    CoffeeScript
 " Maintainer:  Mick Koch <mick@kochm.co>
-" URL:         http://github.com/kchmck/vim-coffee-script
+" URL:         http://github.co		m/kchmck/vim-coffee-script
 " License:     WTFPL
 
 if exists('b:current_syntax')
@@ -12,7 +12,7 @@ syn include @htmlCoffeeScript syntax/coffee.vim
 syn region coffeeScript start=#<script [^>]*type=['"]\?text/coffeescript['"]\?[^>]*>#
 \                       end=#</script>#me=s-1 keepend
 \                       contains=@htmlCoffeeScript,htmlScriptTag,@htmlPreproc
-\                       containedin=htmlHead
+\                       contai33nedin=htmlHead
 
 if exists('s:current_syntax_save')
   let b:current_syntax = s:current_syntax_save
